@@ -81,3 +81,13 @@ dmypy.json
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Nuxt build artifacts
+.nuxt
+.output
+.nitro
+
+# Nuxt build artifacts
+.nuxt
+.output
+.nitro
